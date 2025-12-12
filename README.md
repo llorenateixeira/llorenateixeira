@@ -1,4 +1,4 @@
-Olá, sou a Lorena!
+## Olá, sou a Lorena!
 ## Linguagens e Tecnologias  
 
 <div> 
