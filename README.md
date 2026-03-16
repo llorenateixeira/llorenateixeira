@@ -12,8 +12,11 @@
   <img align="center" alt="Vi-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Vi-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="Vi-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llorenateixeira&layout=compact)
 </div>
+<div align="center">
+<
+</div>
+
 
 
 ## Contato  
