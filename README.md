@@ -13,6 +13,7 @@
   <img align="center" alt="Vi-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="Vi-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
+![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=llorenateixeira&show_icons=true&theme=radical)
 
 ## Contato  
 
